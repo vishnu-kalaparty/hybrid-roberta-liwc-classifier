@@ -1,4 +1,4 @@
-# Hybrid RoBERTa + LIWC Classifier
+# Emotion-Aware Academic Writing Assistant
 
 A hybrid model combining RoBERTa embeddings with LIWC-like lexicon features for:
 - **Emotion Detection** (6 classes: Positive, Negative, Neutral, Confident, Frustrated, Anxious)
